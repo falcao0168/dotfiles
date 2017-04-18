@@ -1,0 +1,17 @@
+set showtabline=2
+set number
+set smartindent
+
+set ambiwidth=double
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set list
+set listchars=tab:»-,trail:-,eol:↲,extends:»,precedes:«,nbsp:%
+set nrformats-=octal
+set hidden
+set virtualedit=block
+set whichwrap=b,s,[,],<,>
+set backspace=indent,eol,start
+
+"set transparency=221
